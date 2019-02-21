@@ -1,0 +1,7 @@
+name = "EchogramColorSchemes"
+uuid = "7aaf5238-35e9-11e9-344d-235b218e62a0"
+authors = ["Rob Blackwell <rob@robblackwell.com>"]
+version = "0.1.0"
+
+[deps]
+ColorTypes = "3da002f7-5984-5a60-b8a6-cbb66c0b333f"
