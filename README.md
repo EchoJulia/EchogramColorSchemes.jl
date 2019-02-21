@@ -8,3 +8,20 @@
 
 This trivial package contains colour schemes that are widely used in
 fisheries acoustics.
+
+
+	using EchogramColorSchemes
+	
+	EK80.colors
+	EK500.colors
+	
+
+When using any colour scheme with an Echogram, it is usually desirable
+to a black or white default / background.
+
+	c = addblack(EK80)
+	
+This works with other colour schemes too:
+
+	using ColorSchemes
+	c = addwhite(ColorSchemes.viridis)
