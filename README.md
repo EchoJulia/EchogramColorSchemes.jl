@@ -24,7 +24,7 @@ fisheries acoustics.
 	
 
 When using any colour scheme with an Echogram, it is usually desirable
-to a black or white default / background.
+to add a black or white default / background.
 
 	c = addblack(EK80)
 	
