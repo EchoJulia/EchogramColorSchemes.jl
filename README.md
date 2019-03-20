@@ -20,7 +20,13 @@ fisheries acoustics.
 	using EchogramColorSchemes
 	
 	EK80.colors
-	EK500.colors
+	EK500.colors	
+	LSSS.colors
+	Kaijo.colors
+	DT4.colors
+	Sonic.colors
+	HTI.colors
+	FurunoFQ80.colors
 	
 
 When using any colour scheme with an Echogram, it is usually desirable
